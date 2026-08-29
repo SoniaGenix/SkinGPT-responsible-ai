@@ -6,7 +6,7 @@ Responsible AI principles and governance for SkinGPT bai SoniaGenix® and SknGur
 
 At SoniaGenix®, Beauty Intelligence brings together:
 
-**God-Given Human Intelligence + Artificial Intelligence = Beauty Intelligence**
+**God-Given Human Intelligence + Artificial Intelligence to create Beauty Intelligence**
 
 We believe technology should support human judgment—not replace it.
 
