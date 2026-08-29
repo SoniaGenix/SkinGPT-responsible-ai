@@ -61,7 +61,7 @@ Technology should strengthen human capability while preserving judgment, account
 
 **Real Skin Has Imperfexions!**
 
-**JustBeeU**
+**JustBeeU™**
 
 **Products for a Brighter You®**
 
