@@ -1,4 +1,4 @@
-## Responsible AI Governance Library
+## Ethical & Responsible AI Governance Library
 
 Explore the public governance framework for **SkinGPT bai SoniaGenix®** and **SknGuru**:
 
@@ -6,7 +6,7 @@ Explore the public governance framework for **SkinGPT bai SoniaGenix®** and **S
 - [Human Oversight](HUMAN_OVERSIGHT.md)
 - [Privacy and Safety](PRIVACY_AND_SAFETY.md)
 - [AI Governance](AI_GOVERNANCE.md)
-# SoniaGenix® Responsible AI
+# SoniaGenix® Ethical & Responsible AI
 
 ## Beauty Intelligence
 
