@@ -1,4 +1,4 @@
-# SkinGPT-responsible-ai
+# SkinGPT bai SoniaGenix®-responsible-ai
 Responsible AI principles and governance for SkinGPT bai SoniaGenix® and SknGuru
 # SoniaGenix® Responsible AI
 
