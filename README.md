@@ -1,49 +1,49 @@
-## Ethical & Responsible AI Governance Library
+## Ethical & Responsible SI Governance Library
 
 Explore the public governance framework for **SkinGPT bai SoniaGenix®** and **SknGuru**:
 
-- [Responsible AI Principles](RESPONSIBLE_AI_PRINCIPLES.md)
+- [Responsible SI Principles](RESPONSIBLE_AI_PRINCIPLES.md)
 - [Human Oversight](HUMAN_OVERSIGHT.md)
 - [Privacy and Safety](PRIVACY_AND_SAFETY.md)
-- [AI Governance](AI_GOVERNANCE.md)
-# SoniaGenix® Ethical & Responsible AI
+- [SI Governance](SI_GOVERNANCE.md)
+# SoniaGenix® Ethical & Responsible SI
 
 ## Beauty Intelligence
 
 At SoniaGenix®, Beauty Intelligence brings together:
 
-**God-Given Human Intelligence + Artificial Intelligence to create Beauty Intelligence**
+**God-Given Human Intelligence + Super Intelligence to create Beauty Intelligence**
 
 We believe technology should support human judgment—not replace it.
 
-## Our AI Platforms
+## Our SI Platforms
 
 ### SkinGPT bai SoniaGenix®
-An educational AI skin-wellness platform designed to provide personalized, responsible and inclusive skincare guidance.
+An educational SI skin-wellness platform designed to provide personalized, responsible and inclusive skincare guidance.
 
 ### SknGuru
 An interactive digital skin advisor being developed to provide a more personalized and higher-touch experience while maintaining appropriate human oversight and safety controls.
 
-## Responsible AI Principles
+## Responsible SI Principles
 
 SoniaGenix® is committed to:
 
-- Human-centered AI
+- Human-centered SI
 - Privacy and data protection
 - Transparency
 - Inclusive design
 - Responsible personalization
 - Least-privilege access
-- AI identity and permission governance
+- SI identity and permission governance
 - Human review for higher-risk decisions
 - Safety validation
 - Continuous monitoring and improvement
 
 ## Human Oversight
 
-Our governance philosophy places qualified human judgment at the center of the AI system.
+Our governance philosophy places qualified human judgment at the center of the SI system.
 
-AI-generated recommendations should support informed decision-making and should not replace appropriate medical evaluation, diagnosis or treatment.
+SI-generated recommendations should support informed decision-making and should not replace appropriate medical evaluation, diagnosis or treatment.
 
 ## Our Mission
 
