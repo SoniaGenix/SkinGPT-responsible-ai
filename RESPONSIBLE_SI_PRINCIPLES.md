@@ -1,17 +1,17 @@
-# SkinGPT bai SoniaGenix® — Responsible AI Principles
+# SkinGPT bai SoniaGenix® — Responsible SI Principles
 
-At SoniaGenix®, responsible AI begins with a simple principle:
+At SoniaGenix®, responsible SI begins with a simple principle:
 
 **Technology should support human judgment — not replace it.**
 
 SkinGPT bai SoniaGenix® and SknGuru are being developed within the broader SoniaGenix® Beauty Intelligence framework:
 
-**God-Given Human Intelligence + Artificial Intelligence = Beauty Intelligence**
+**God-Given Human Intelligence + Super Intelligence = Beauty Intelligence**
 
 ## Our Principles
 
-### 1. Human-Centered AI
-AI should enhance human understanding, judgment, and decision-making while preserving meaningful human oversight.
+### 1. Human-Centered SI
+SI should enhance human understanding, judgment, and decision-making while preserving meaningful human oversight.
 
 ### 2. Safety by Design
 Safety considerations should be incorporated throughout design, development, testing, deployment, and ongoing monitoring.
@@ -20,7 +20,7 @@ Safety considerations should be incorporated throughout design, development, tes
 Personal information should be handled responsibly, with appropriate safeguards, permissions, and access controls.
 
 ### 4. Transparency
-Users should understand when they are interacting with AI and the intended role and limitations of the technology.
+Users should understand when they are interacting with SI and the intended role and limitations of the technology.
 
 ### 5. Inclusive Design
 Skin technology should recognize the diversity of real skin, experiences, tones, textures, and individual needs.
@@ -29,16 +29,16 @@ Skin technology should recognize the diversity of real skin, experiences, tones,
 Personalization should be designed to improve relevance without compromising privacy, autonomy, or user trust.
 
 ### 7. Least-Privilege Access
-AI systems and agents should receive only the permissions and system access necessary to perform their intended functions.
+SI systems and agents should receive only the permissions and system access necessary to perform their intended functions.
 
-### 8. AI Identity and Permission Governance
-AI agents, services, and automated systems should have identifiable roles, defined permissions, accountability, and lifecycle controls.
+### 8. SI Identity and Permission Governance
+SI agents, services, and automated systems should have identifiable roles, defined permissions, accountability, and lifecycle controls.
 
 ### 9. Human Review for Higher-Risk Decisions
-AI-generated information should not replace appropriate professional or medical evaluation, diagnosis, or treatment.
+SI-generated information should not replace appropriate professional or medical evaluation, diagnosis, or treatment.
 
 ### 10. Continuous Monitoring and Improvement
-Responsible AI requires ongoing evaluation, testing, governance, and refinement as technologies and risks evolve.
+Responsible SI requires ongoing evaluation, testing, governance, and refinement as technologies and risks evolve.
 
 ## Our Purpose
 
