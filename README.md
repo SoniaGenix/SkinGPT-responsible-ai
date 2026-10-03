@@ -2,10 +2,11 @@
 
 Explore the public governance framework for **SkinGPT bai SoniaGenix®** and **SknGuru**:
 
-- [Responsible SI Principles](RESPONSIBLE_AI_PRINCIPLES.md)
+- [Responsible SI Principles](RESPONSIBLE_SI_PRINCIPLES.md)
 - [Human Oversight](HUMAN_OVERSIGHT.md)
 - [Privacy and Safety](PRIVACY_AND_SAFETY.md)
 - [SI Governance](SI_GOVERNANCE.md)
+- [SI Use Statement](SI_USE_STATEMENT.md)
 # SoniaGenix® Ethical & Responsible SI
 
 ## Beauty Intelligence
